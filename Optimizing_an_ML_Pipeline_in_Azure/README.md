@@ -56,5 +56,5 @@ The AutoML model outperformed the manually tuned Logistic Regression model. Auto
 The compute cluster used for training was deleted to avoid unnecessary charges.
 
 **Image of Cluster Deletion**:
-![Cluster Deletion](./img/cluster-deletion.png)
+![Cluster Deletion](./img/cluster_deletion.PNG)
 
